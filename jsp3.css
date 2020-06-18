@@ -1,0 +1,21 @@
+.Bam div{
+    border-style: solid;
+    border-width: 1px;
+    padding:10px;
+    margin:0 auto;
+    text-align: center;
+    width: 85%;
+    display:flex;
+    justify-content: space-around;
+}
+.Avi img:hover{
+    box-shadow: 0px 10px 50px #888888;
+}
+.Avi{
+    display:flex;
+    justify-content: space-around;
+    flex-wrap: unset;
+}
+.finfoot{
+    text-align: center;
+}
